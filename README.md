@@ -1,5 +1,5 @@
-# ChartGPT/文心一言-Prompts
-ChartGPT/文心一言Prompts大全，这是将与ChatGPT模型一起使用的提示示例的集合，教你如何提问才能得到你想要的答案。
+# ChatGPT/文心一言-Prompts
+ChatGPT/文心一言Prompts大全，这是将与ChatGPT模型一起使用的提示示例的集合，教你如何提问才能得到你想要的答案。
 
 ChatGPT模型是一个由OpenAI训练的大型语言模型，能够生成类似人类的文本。通过向它提供提示，它可以生成继续对话或扩展给定提示的响应。在这个存储库中，您会发现可以与ChatGPT一起使用的各种提示。我们鼓励您将自己的提示添加到列表中，并使用ChatGPT生成新的提示。
 
