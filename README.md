@@ -3,7 +3,7 @@ ChatGPT/文心一言Prompts大全，这是将与ChatGPT模型一起使用的提�
 
 ChatGPT模型是一个由OpenAI训练的大型语言模型，能够生成类似人类的文本。通过向它提供提示，它可以生成继续对话或扩展给定提示的响应。在这个存储库中，您会发现可以与ChatGPT一起使用的各种提示。我们鼓励您将自己的提示添加到列表中，并使用ChatGPT生成新的提示。
 
-## 欢迎关注公众号，AI爱好者的聚集地
+## 欢迎关注【AI有温度】，AI爱好者的聚集地
 
 ![](https://user-images.githubusercontent.com/59214385/226261924-e5e76e96-be57-4075-b8dd-8968e0459c9e.jpg)
 
